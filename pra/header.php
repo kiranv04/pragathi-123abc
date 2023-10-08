@@ -45,7 +45,7 @@
     <div class="container-fluid bg-white p-0">
         <!-- Navbar & Hero Start -->
         <div class="container-fluid bg-white position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0 sticky-top shadow-sm">
+            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0 sticky-top shadow-sm">
                 <a href="" class="navbar-brand p-0">
                     <img src="img/logo/pragathi_new.png" alt="Logo">
                 </a>
