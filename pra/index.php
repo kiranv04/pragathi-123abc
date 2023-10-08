@@ -85,10 +85,6 @@
         <span class="visually-hidden">Next</span>
     </a>
 </div>
-
-
-
-
 <div class="container-fluid py-5">
     <div class="container py-5 px-lg-5">
         <div class="wow fadeInUp" data-wow-delay="0.1s">
@@ -171,7 +167,7 @@
 <!-- Service End -->
 
 <!-- Newsletter Start -->
-<div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
@@ -247,7 +243,7 @@
 <!-- Projects End -->
 
 <!-- Testimonial Start -->
-<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5 px-lg-5">
         <p class="section-title text-secondary justify-content-center"><span></span>Testimonial<span></span></p>
         <h1 class="text-center mb-5">What Say Our Clients!</h1>
